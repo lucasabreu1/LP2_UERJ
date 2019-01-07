@@ -1,3 +1,38 @@
+/**
+
+Esse programa calcula a area de 3 tipos de figuras: circulos, retangulos e triangulos, tratando as excessoes necessarias.
+Exemplos de entradas e saida:
+
+
+> java Ex1 12.4
+A area do circulo e: 483,05 unidades de area.
+
+
+> java Ex1 10.5 35.65
+A area do retangulo e: 374,33 unidades de area.
+
+
+> java Ex1 3.0  4.0  5.0
+A area do triangulo e: 6,00 unidades de area.
+O triangulo e escaleno.
+
+
+> java Ex1 2.2  10.0  3.4
+Nao e triangulo.
+
+
+> java Ex1
+Numero de argumentos insuficiente.
+
+
+> java Ex1 cinco
+O raio deve ser um numero real.
+
+
+**/
+
+
+
 public class Ex1
 {
 	public static void main(String args[])
