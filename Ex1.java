@@ -5,7 +5,7 @@ public class Ex1
 		
 
 		if(args.length == 0){
-			System.out.println("Número de argumentos insuficiente.");
+			System.out.println("Numero de argumentos insuficiente.");
 		}
 
 
@@ -39,7 +39,7 @@ public class Ex1
 			catch(NumberFormatException e)
 			{
 				
-				System.out.println("Os lados do retangulo devem ser números reais.");
+				System.out.println("Os lados do retangulo devem ser numeros reais.");
 				
 			}
 			
@@ -59,14 +59,14 @@ public class Ex1
 			catch(NumberFormatException e)
 			{
 
-				System.out.println("Os lados do triangulo devem ser números reais.");
+				System.out.println("Os lados do triangulo devem ser numeros reais.");
 
 			}
 			
 		}
 		else{
 
-			System.out.println("Número de argumentos excessivo.");
+			System.out.println("Numero de argumentos excessivo.");
 
 		}
 
