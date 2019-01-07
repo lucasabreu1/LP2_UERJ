@@ -1,8 +1,9 @@
 /**
 
-Esse programa calcula a area de 3 tipos de figuras: circulos, retangulos e triangulos, tratando as excessoes necessarias.
-Exemplos de entradas e saida:
+Esse programa calcula a area de 3 tipos de figuras: circulos, retangulos e triangulos, utilizando sobrecarga de metodos estaticos e 
+tratando as excessoes necessarias
 
+Exemplos de entradas e saida:
 
 > java Ex1 12.4
 A area do circulo e: 483,05 unidades de area.
